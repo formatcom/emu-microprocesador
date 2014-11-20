@@ -1,7 +1,10 @@
 <!-- Emulador de microprocesador(CPU) 4Bits -->
-Author: Vinicio Valbuena
-c.i: 19987187
-bibliografia -> Microprocesadores, programación e interconexión 
+Author: 
+	Vinicio Valbuena.
+c.i: 
+	19987187
+bibliografia:
+	Microprocesadores, programación e interconexión 
 /por Jose María Urunuela M. SEGUNDA EDICION.
 
 Descripcion del procesador de cuatro bits.
@@ -96,7 +99,8 @@ Problemas
 			los circuitos necesarios para que sus salidas sean 
 			activas en 1 logico. Dado que el codigo solo consta de
 			ocho instrucciones, solo se conectan a las entradas del 
-			decodificador las tres salidas menos significativas del registro de instrucciones.
+			decodificador las tres salidas menos significativas del
+			registro de instrucciones.
 
 			         INSTRUCCIONES
 			    -----------------------
@@ -114,7 +118,8 @@ Problemas
 
 	7.- Crear el acumulador y el acumulador temporal.
 			- Contruir los registros que funcionaran como acumulador
-			temporal y como acumulador, de la misma forma que los registros de instrucciones y de datos. La linea C del
+			temporal y como acumulador, de la misma forma que los 
+			registros de instrucciones y de datos. La linea C del
 			GCM se conecta a la entrada del reloj del acumulador
 			temporal y la linea D a la entrada de reloj del 
 			acumulador. Por los momentos la ALU esta ausente y por 

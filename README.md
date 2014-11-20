@@ -1,11 +1,8 @@
 <!-- Emulador de microprocesador(CPU) 4Bits -->
-Author: 
-	Vinicio Valbuena.
-c.i: 
-	19987187
-bibliografia:
-	Microprocesadores, programación e interconexión 
-/por Jose María Urunuela M. SEGUNDA EDICION.
+	Author       : Vinicio Valbuena.
+	c.i          : 19987187
+	bibliografia : Microprocesadores, programación e interconexión 
+	/por Jose María Urunuela M. SEGUNDA EDICION.
 
 Descripcion del procesador de cuatro bits.
 
